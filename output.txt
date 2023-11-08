@@ -1,0 +1,11 @@
++------+--------+---------+
+| Port | Status | Service |
++------+--------+---------+
+| 443  | Closed |   N/A   |
+|  22  |  Open  |   ssh   |
+|  80  | Closed |   N/A   |
+| 8888 |  Open  |   http  |
+|  42  | Closed |   N/A   |
+| 8000 | Closed |   N/A   |
+| 111  | Closed |   N/A   |
++------+--------+---------+
